@@ -13,7 +13,7 @@ Download and install the following tools
 6. MySQL (brew install mysql@5.7)
 7. Start MySQL (brew services start mysql@5.7)
 8. Laravel Valet (composer global require laravel/valet)
-8a. valet install 
+8a. valet install
 8b. export PATH=$PATH:~/composer/vendor/bin
 9. cd~
 10. mkdir Sites
