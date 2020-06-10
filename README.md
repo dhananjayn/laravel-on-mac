@@ -1,7 +1,7 @@
 # laravel-on-mac
 How to setup a Mac for Laravel Development Environment
 
-#Tools
+# Tools
 Download and install the following tools
 1. iTerm2 (https://www.iterm2.com/) and then install Oh My Zsh (https://ohmyz.sh/)
 2. Github Desktop (https://central.github.com/deployments/desktop/desktop/latest/darwin)
